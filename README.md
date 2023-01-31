@@ -16,7 +16,7 @@ Neste projeto as seguintes funcionalidades foram desenvolvidas:<br />
 • Garantia de registro das informações <br />
 
 ## ⏱ Execução
-Exemplo de criação de registros no app <br />
+Em construção...</br>
 
 ## ✔️ Aprendizado
 Nesse projeto eu consegui obter os seguintes conhecimentos:<br />
